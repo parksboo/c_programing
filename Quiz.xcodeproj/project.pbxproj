@@ -10,6 +10,7 @@
 		BCBE529829B4B343006AF023 /* quiz123.c in Sources */ = {isa = PBXBuildFile; fileRef = BCBE529729B4B343006AF023 /* quiz123.c */; };
 		BCBE52A029B61107006AF023 /* quiz456.c in Sources */ = {isa = PBXBuildFile; fileRef = BCBE529F29B61107006AF023 /* quiz456.c */; };
 		BCBE52A329C307F7006AF023 /* quiz789.c in Sources */ = {isa = PBXBuildFile; fileRef = BCBE52A229C307F7006AF023 /* quiz789.c */; };
+		BCBE52A629CB22D6006AF023 /* quiz101112.c in Sources */ = {isa = PBXBuildFile; fileRef = BCBE52A529CB22D6006AF023 /* quiz101112.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		BCBE529729B4B343006AF023 /* quiz123.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = quiz123.c; sourceTree = "<group>"; };
 		BCBE529F29B61107006AF023 /* quiz456.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = quiz456.c; sourceTree = "<group>"; };
 		BCBE52A229C307F7006AF023 /* quiz789.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = quiz789.c; sourceTree = "<group>"; };
+		BCBE52A529CB22D6006AF023 /* quiz101112.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = quiz101112.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BCBE52A229C307F7006AF023 /* quiz789.c */,
 				BCBE529729B4B343006AF023 /* quiz123.c */,
 				BCBE529F29B61107006AF023 /* quiz456.c */,
+				BCBE52A529CB22D6006AF023 /* quiz101112.c */,
 			);
 			path = Quiz;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCBE52A629CB22D6006AF023 /* quiz101112.c in Sources */,
 				BCBE52A029B61107006AF023 /* quiz456.c in Sources */,
 				BCBE529829B4B343006AF023 /* quiz123.c in Sources */,
 				BCBE52A329C307F7006AF023 /* quiz789.c in Sources */,

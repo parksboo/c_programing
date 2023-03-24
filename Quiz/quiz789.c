@@ -51,11 +51,11 @@
 #include <string.h>
 void stringremove(char *s, int i, int j);
 
-int main() {
+int main3() {
     int i;
     char a[max_size] = "123456789";
     stringremove(a, 2, 3);
-    
+    return 0;
 }
 
 void stringremove(char *s, int i, int j) {
